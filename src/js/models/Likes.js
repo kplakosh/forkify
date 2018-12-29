@@ -4,7 +4,7 @@ export default class Likes {
     }
 
     addLike(id, title, author, img) {
-        const like = { id, like, author, img };
+        const like = { id, title, author, img };
         this.likes.push(like);
         return like;
     }
@@ -19,6 +19,6 @@ export default class Likes {
     }
 
     getNumLikes() {
-        this.likes.length;
+        return this.likes.length;
     }
 }
