@@ -7,13 +7,13 @@ export default class List {
 
     addItem (count, unit, ingredient) {
         const item = {
-            id: uniqid,
+            id: uniqid(),
             count,
             unit,
             ingredient
         }
         this.items.push(item);
-        return this.items;
+        return item;
     }
 
     deleteItem(id) {
