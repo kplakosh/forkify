@@ -12,6 +12,10 @@ Forkify is an application designed for food enthusiasts. Ut allows the use:
 - Consult the list of favorite recipes (stored in the browser's localStorage) by clicking on the heart in the top right corner
 - User will get directions on how to cook the recipe 
 
+## Screenshot
+
+![Forkify Screenshot](./img/forkify-screenshot.jpg)
+
 ## Directions to use and install this application
 
 Step 1. Download or clone project 
