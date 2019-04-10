@@ -60,7 +60,8 @@ body {
 
 .btn {
   padding: 1.3rem 3rem;
-  font-size: 1.4rem; }
+  font-size: 1.4rem;
+  text-align: center; }
   .btn svg {
     height: 2.25rem;
     width: 2.25rem;
