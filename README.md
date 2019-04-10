@@ -3,7 +3,7 @@
 
 ## Forkify
 
-Forkify is an application designed for food enthusiasts. Ut allows the use:
+Forkify is an application designed for food enthusiasts. This application is build with Html5, Css3, Java Script, Webpack and Babel6. It allows the use:
 
 - User will get a list of recipies according to the keyword search
 - User can check the selected recipe's list of ingredients and serving
