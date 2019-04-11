@@ -1,5 +1,4 @@
-# Food recipe search
-
+# Food recipe search - practice project
 
 ## Forkify
 
@@ -44,7 +43,7 @@ Step 7. Start webpack server using command:
 $ npm run start
 ```
 
-## Authors
+## Original author (instructor)
 
 <a href="https://twitter.com/jonasschmedtman">Jonas Schmedtmann</a>
 
